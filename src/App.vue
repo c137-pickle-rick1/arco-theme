@@ -121,11 +121,11 @@ export default {
                 </a-button>
             </a-space>
             <a-space align="start">
-                <a-button size="mini">Button</a-button>
-                <a-button size="small">Button</a-button>
-                <a-button size="medium">Button</a-button>
-                <a-button size="large">Button</a-button>
-                <a-button size="mini">
+                <a-button type="secondary" size="mini">Button</a-button>
+                <a-button type="secondary" size="small">Button</a-button>
+                <a-button type="secondary" size="medium">Button</a-button>
+                <a-button type="secondary" size="large">Button</a-button>
+                <a-button type="secondary" size="mini">
                     <template #icon>
                         <icon-plus />
                     </template>
